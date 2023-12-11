@@ -20,6 +20,6 @@ The abbreviation for XiNL Dev Studio is XiNL, XiNL Dev, or XiNL Studio.
 
 Although that's the case, XiNL Dev Studio won't have any plans in the near future. This is mainly due to academic reasons, and I hope for your understanding.
 
-What is STA? STA stands for **St**udio **A**ccount, meaning studio account. To keep the username concise, this abbreviation is used. (I believe you wouldn't like a username like xinl-studio-account.)
+What is STA? STA stands for **St**udio **A**ccount. To keep the username concise, this abbreviation is used. (I believe you wouldn't like a username like xinl-studio-account.)
 
 Translated by ChatGPT.
